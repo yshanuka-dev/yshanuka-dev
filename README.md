@@ -1,41 +1,24 @@
-# Hi there, I'm Yohan! 👋
+<h1 align="center">Hi 👋, I'm yohan shanuka</h1>
+<h3 align="center">A passionate AI/ML engineer</h3>
 
-I'm a final-year BICT (Hons.) undergraduate at the University of Vavuniya with a huge passion for **AI/ML**, **MLOps**, and **Data Engineering**[cite: 1]. 
+- 🌱 I’m currently learning **Agentic AI systems**
 
-I love bridging the gap between raw data and production systems—designing scalable ETL pipelines, training predictive models, and setting up automated workflows that run reliably in the cloud[cite: 1].
+- 👨‍💻 All of my projects are available at [https://www.yohanjayakody.dev/](https://www.yohanjayakody.dev/)
 
----
+- 📝 I regularly write articles on [https://medium.com/@yshanuka123](https://medium.com/@yshanuka123)
 
-### 🚀 What I Do
-* 🤖 **Machine Learning & Deep Learning:** Building predictive algorithms and computer vision solutions using Scikit-learn, TensorFlow, Keras, and XGBoost[cite: 1].
-* 🔄 **MLOps & DevOps:** Automating end-to-end pipelines, experiment tracking, and containerization with MLflow, DVC, and Docker[cite: 1].
-* ⚡ **Data Engineering:** Designing scalable real-time and batch workflows using Apache Spark, Kafka, Airflow, and PostgreSQL[cite: 1].
-* ☁️ **Cloud & Monitoring:** Deploying workloads on AWS and tracking metrics with Amazon QuickSight and Grafana[cite: 1].
+- 💬 Ask me about **AI/ML, Data engineering, Warehousing**
 
----
+- 📫 How to reach me **yohanshanuka2002@gmail.com**
 
-### 🛠️ Tech Stack & Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yohanjayakody" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yohanjayakody" height="30" width="40" /></a>
+<a href="https://medium.com/yohanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="yohanjay" height="30" width="40" /></a>
+<a href="https://discord.gg/yohan083338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yohan083338" height="30" width="40" /></a>
+</p>
 
-* **Languages:** Python, SQL[cite: 1]
-* **Machine Learning:** Scikit-learn, TensorFlow, Keras, XGBoost, CNN, Pandas, NumPy[cite: 1]
-* **Data Pipelines:** Apache Spark, Apache Airflow, Apache Kafka, Apache NiFi[cite: 1]
-* **Databases:** PostgreSQL, MySQL, MongoDB[cite: 1]
-* **DevOps & Cloud:** Docker, AWS (S3, EC2, RDS, ECS), Git, GitHub, MLflow, DVC[cite: 1]
-* **Visualization:** Amazon QuickSight, Grafana, Matplotlib[cite: 1]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
-
-### 💡 Featured Highlights
-* **[Customer Churn Prediction Pipeline](#)** — Built an end-to-end automated pipeline featuring data processing with Spark/Kafka/Airflow, experiment tracking via MLflow, Docker containerization, and QuickSight reporting[cite: 1].
-* **[Real-Time Credit Card Fraud Detection](#)** — Engineered a low-latency fraud detection system with streaming data via Kafka and Spark, XGBoost classification, and real-time Grafana dashboards[cite: 1].
-* **[TomoVision (Tomato Disease Prediction)](#)** — Created a full-stack AI platform using EfficientNetB0, FastAPI, and React/React Native to diagnose crop leaf diseases on web and mobile[cite: 1].
-* **Research (RCAICT 2025):** Co-authored field-tested research on low-cost IoT smart collars with LoRa communication for cattle monitoring across rural dry zones in Sri Lanka[cite: 1].
-
----
-
-### 🤝 Let's Connect!
-I'm always excited to collaborate on open-source projects, talk about MLOps pipelines, or chat about the latest in AI!
-
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)[cite: 1]
-* 🌐 **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)[cite: 1]
-* 📧 **Email:** [yohanshanukajayakody@gmail.com](mailto:yohanshanukajayakody@gmail.com)[cite: 1]
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yshanuka-dev&show_icons=true&locale=en&layout=compact" alt="yshanuka-dev" /></p>
