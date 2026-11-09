@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@yshanuka123](https://medium.com/@yshanuka123)
 
-- 💬 Ask me about **AI/ML, Data engineering, Warehousing**
+- 💬 Ask me about **AI/ML, Data engineering, Warehousing** 
 
 - 📫 How to reach me **yohanshanuka2002@gmail.com**
 
