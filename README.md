@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm yohan shanuka</h1>
 <h3 align="center">A passionate AI/ML engineer</h3>
 
-- 🌱 I’m currently learning **Agentic AI systems**
+- 🌱 I’m currently learning **Agentic AI systems** 
 
 - 👨‍💻 All of my projects are available at [https://www.yohanjayakody.dev/](https://www.yohanjayakody.dev/)
 
